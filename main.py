@@ -1,9 +1,9 @@
 import sqlite3
 import sys
 
-from PyQt5 import uic
-from PyQt5.QtWidgets import QApplication
-from PyQt5.QtWidgets import QMainWindow, QTableWidgetItem
+from PyQt6 import uic
+from PyQt6.QtWidgets import QApplication
+from PyQt6.QtWidgets import QMainWindow, QTableWidgetItem
 from w_2 import Window
 
 
